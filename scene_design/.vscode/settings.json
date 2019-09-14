@@ -2,6 +2,7 @@
     "files.associations": {
         "functional": "cpp",
         "thread": "cpp",
-        "iostream": "cpp"
+        "iostream": "cpp",
+        "mutex": "cpp"
     }
 }
